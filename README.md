@@ -99,6 +99,7 @@ main 與 room 函式利用全域變數溝通，使用共用鎖避免衝突。
 ![Screenshot 2024-01-08 at 10.49.09 AM](https://hackmd.io/_uploads/HkwIIJYuT.png)
 
 9. 遊戲進行中的示範。
+    
 ![ScreenRecording2024-01-08at11.30.57AM-ezgif.com-video-to-gif-converter (2)](https://hackmd.io/_uploads/HJYh1et_a.gif)
 
 
